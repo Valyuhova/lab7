@@ -1,0 +1,1 @@
+distance = sqrt(pow(x[i+1] - x[i], 2) + pow(y[i+1] - y[i], 2));
